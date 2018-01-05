@@ -1,0 +1,18 @@
+[2018-01-04 18:44:36.415] [DISPLAY] Using DPI 96
+[2018-01-04 18:44:36.481] [DISPLAY] Unable to get file version info size for D:\GTA5\GTA5.exe
+[2018-01-04 18:44:36.568] [DISPLAY] File version 10001:70008 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
+[2018-01-04 18:44:36.645] [DISPLAY] File version 10000:1f90002 (for D:\GTA5\GTAVLauncher.exe)
+[2018-01-04 18:44:36.661] [DISPLAY] Version: 1.0.231.0|0.0.0.0|1.1.7.8|1.0.505.2|FFP
+[2018-01-04 18:44:37.158] [DISPLAY] OS version: Major: 6, Minor: 2, Build: 9200, Platform: 2
+[2018-01-04 18:44:39.361] [ ERROR ] Option specified in XML does not exist: name="CloudSaveEnabled" value="1"
+[2018-01-04 18:44:39.362] [ ERROR ] Option specified in XML does not exist: name="CloudSaveBetaOnly" value="0"
+[2018-01-04 18:44:39.362] [ ERROR ] Option specified in XML does not exist: name="CloudSaveWorkerThread" value="0"
+[2018-01-04 18:44:39.446] [DISPLAY] Unable to get file version info size for D:\GTA5\GTA5.exe
+[2018-01-04 18:44:40.084] [DISPLAY] Opened options file.
+[2018-01-04 18:44:40.458] [DISPLAY] File version 10001:70008 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
+[2018-01-04 18:44:40.515] [DISPLAY] Social Club initializing...
+[2018-01-04 18:44:42.062] [DISPLAY] Attempting to create device...
+[2018-01-04 18:44:42.068] [DISPLAY] Attempting to initialise DX9 COM object...
+[2018-01-04 18:44:42.076] [DISPLAY] Window size: 690 x 496
+[2018-01-04 18:44:42.089] [DISPLAY] Successfully created DX Device!
+[2018-01-04 18:45:25.727] [DISPLAY] Uninitializing.
